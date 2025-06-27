@@ -1,14 +1,14 @@
 # AI Engineer
 
-I am a self learner. I believe the best way to learn anything is to do it. Do it with passion and do it consistently everyday. This page shows my learning and experience with AI related technologies. The learning will concentrate on AI agentic. I am using python and related technologies to automate everything that can be automated. Everything will documented for others to learn. Learning to teach will make you smarter.
+I am a self learner. I believe the best way to learn anything is to do it. Do it with passion and do it consistently everyday. This page shows my learning and experience with AI related technologies. The learning will concentrate on AI agentic. I am using python and related technologies to automate everything that can be automated. Everything will be documented for others to learn. Learning by teaching will make you smarter.
 
 ## I am taking my time
 
-I am in no rush. I am doing this in my own pace. But the goal is to learn something everyday, document it, and share it. I am starting from the beginning ==> meaning erasing everything I have learned over the years. Who knows, may be one day I'll teach this stuff. Learning is fun. Sharing is way more fun. The more you share, the more you learn.
+I am in no rush. I am doing this in my own pace. But the goal is to learn something everyday, document it, and share it. I am starting from the beginning ==> **meaning unlearned I have learned to relearn in an AI atmosphere**. Who know!, may be one day I'll be teaching this stuff to a room full of students **:-)**. Learning is fun. Sharing is way more fun. The more you share, the more you learn.
 
 ## Putting all this stuff I learn by building something
 
-I have 10 investments strategies I am running in my investment accounts. That is crazy 10 strategies. Why 10? Well, that's for another time for us to discuss. Each strategy is in a separate sub account. With the learning I am acquiring here, the goal is to automate all of them using a combination of python and AI related technologies. One day my AI trader assistant will manage my trades, while I am at the beach enjoying my Piña Colada.
+I have 10 investments strategies I am running in my investment accounts. That is crazy 10 strategies. The crazy part is using AI as my assistant. That would be cool. Why 10? Well, that's for another time to discuss. Each strategy is in a separate sub account. With the learning I am acquiring here, the goal is to automate all of them using a combination of python and AI related technologies. One day my AI trader assistant will manage my trades, while I am at the beach enjoying my Piña Colada.
 
 ## Gen AI Fundamentals
 
