@@ -4,7 +4,7 @@ I am a self learner. I believe the best way to learn anything is to do it. Do it
 
 ## I am taking my time
 
-I am in no rush. I am doing this in my own pace. But the goal is to learn something everyday, document it, and share it. I am starting from the beginning ==> **meaning unlearned I have learned to relearn in an AI atmosphere**. Who know!, may be one day I'll be teaching this stuff to a room full of students **:-)**. Learning is fun. Sharing is way more fun. The more you share, the more you learn.
+I am in no rush. I am doing this in my own pace. But the goal is to learn something everyday, document it, and share it. I am starting from the beginning ==> **meaning unlearned what I have learned to relearn in an AI atmosphere**. Who know!, may be one day I'll be teaching this stuff to a room full of students **:-)**. Learning is fun. Sharing is way more fun. The more you share, the more you learn.
 
 ## Putting all this stuff I learn by building something
 
@@ -73,6 +73,35 @@ The learning today was fun and refreshing. I practice using an algorithm and flo
 ![flowchart](images/day2.png)
 
 ---
+
+---
+
+### Day 3 - Python Basics
+
+#### June 28, 2025
+
+---
+
+**Focus**:
+
+The learning today focused on Python building block
+
+**Progress**:
+
+- Learning about variables, data type, operators, and syntax
+- Lots of hands-on practice and experitation
+- working on several small projects
+
+**Thoughts**:
+
+This was a nice review of the basics. Sometimes we gloss over learning the basics. It is really important to learn this part of the language well. These concepts are essential for writing clear, efficient, and structured programs. I have lots of fun playing around with variables, data types, operators, and many more today. Can't wait for tomorrow!
+
+**Work & Resources**:
+
+[Python visualizer](https://pythontutor.com/visualize.html#mode=edit)
+<br>
+<br>
+[Python basics](resources/codes/python_codes/1_basics)
 
 ---
 
