@@ -101,7 +101,64 @@ This was a nice review of the basics. Sometimes we gloss over learning the basic
 [Python visualizer](https://pythontutor.com/visualize.html#mode=edit)
 <br>
 <br>
-[Python basics](resources/codes/python_codes/1_basics)
+[Python basics](file://resources/codes/python_codes/1_basics)
+
+---
+
+### Day 4 - Using LLM to create a python game
+
+#### June 29, 2025
+
+---
+
+**Focus**:
+
+Playing different LLM to create the python snake game
+
+**Progress**:
+
+- Learn and verified that LLMs are non-deterministic
+- Installing and Setting up my own personal LLM locally in my computer
+- Playing with llama and ChatGPT
+- Using both LLMs to create the snake game in python
+
+**Thoughts**:
+
+I am hooked. I don't know how I can live without LLM for the rest of my time on earth. This is an amazing tool. Become better at writing prompt is an essential skill to get the best of an LLM. This is an area I need to become better at.
+
+**Work & Resources**:
+
+[Python Snake Game](file://resources/codes/python_codes/snake_game)
+
+
+---
+
+### Day 5 - Pyhton strings and collections
+
+#### July 1, 2025
+
+---
+
+**Focus**:
+
+The Focus is an introduction to Python String and collection
+
+**Progress**:
+
+- Understanding str, bytes, list, and dict
+- Understanding the python for-loop
+- Understanding the difference between mutable and immutable objects
+- Work with some strings and collections's methods, and object constructors
+- Work with various type of quotes
+- Putting it all together through hands-project at the console
+
+**Thoughts**:
+
+This lesson was actually pretty fun. I got to mess around a lot in the Python REPL, trying things out and breaking stuff on purpose just to see what kind of errors I'd get. It was a great way to get a feel for how Python works. The hands-on part really helped me put what I learned into practice, and whenever I got stuck, I checked out the Python docs to figure things out.
+
+**Work & Resources**:
+
+NONE
 
 ---
 
@@ -120,5 +177,3 @@ This was a nice review of the basics. Sometimes we gloss over learning the basic
 **Work & Resources**:
 
 NONE
-
----
