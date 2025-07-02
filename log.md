@@ -162,6 +162,35 @@ NONE
 
 ---
 
+### Day 6 - Python Modularity
+
+#### July 2, 2025
+
+---
+
+**Focus**:
+
+Python modularity
+
+**Progress**:
+
+- Understand the benefits of modularize your program
+- Create python modules
+- Importing the module you create
+- Learning to create functions
+- Organize python codes with functions
+- Using __main__ to use python program as a script or module
+
+**Thoughts**:
+
+Today's lesson was concise and engaging. I had a hands-on learning experience—created a few modules, imported them using the REPL, and picked up some useful techniques along the way. I began organizing the code with functions and explored how the `__name__` special variable works when running a module directly versus importing it into another. The learning continues tomorrow.
+
+**Work & Resources**:
+
+[Python words program ](file://resources/codes/python_codes/pyfund)
+
+---
+
 ### Day X - IAM Basics
 
 #### July X, 2025
