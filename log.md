@@ -191,6 +191,33 @@ Today's lesson was concise and engaging. I had a hands-on learning experience—
 
 ---
 
+### Day 7 - Python Modularity
+
+#### July 3, 2025
+
+---
+
+**Focus**:
+
+Python modularity (continue)
+
+**Progress**:
+
+- Understanding python execution model
+- Work with python debugger to understand python module execution
+- Refine the fetch_words python program
+- Using Docstring to document the program
+
+**Thoughts**:
+
+Another interesting day learning Python. It was refreshing and valuable to work with the Python debugger to better understand how the execution model works. I also learned the importance of using docstrings to document my programs—something I’ll make sure to do moving forward.
+
+**Work & Resources**:
+
+[Python words program ](file://resources/codes/python_codes/pyfund)
+
+---
+
 ### Day X - IAM Basics
 
 #### July X, 2025
