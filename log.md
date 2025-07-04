@@ -218,6 +218,44 @@ Another interesting day learning Python. It was refreshing and valuable to work 
 
 ---
 
+### Day 8 - Python type and objects
+
+#### July 4, 2025
+
+---
+
+**Focus**:
+
+The focus today is Understanding Python type and object model
+
+**Questions**
+
+These are the questions that popping up in my head as I am immersing myself in the suject:
+  - 1. Why knowing all this stuff important?
+  - 2. How knowing all this stuff makes me a better python programmer?
+
+**Progress**:
+
+- What objects are
+- Understand how to make use of them
+- Understanding object references
+- Practicing in the REPL to ciment the learning
+- Answering my own questions
+
+**Thoughts**:
+
+I’m finally learning Python the way I always wanted to. Today’s lesson was a refreshing one. Sometimes you start with something as simple as x = 50 and number = [1, 2, 3]. Then you change things to something like x = 100, number = number2. Other times you’re getting all sorts of errors and wondering what went wrong. If I had taken the time earlier to really understand what Python is doing under the hood, it would have made a big difference.
+
+Now, when I see **a is b**, I understand it's checking identity equality— whether two variables point to the same memory location. And when I see **a == b**, it’s testing value equality— whether the values at those memory location are the same. I now know that a and b are simply labels that serve as reference by the python language. These labels are great for human Understanding.
+
+The learning continues tomorrow.
+
+**Work & Resources**:
+
+NONE
+
+---
+
 ### Day X - IAM Basics
 
 #### July X, 2025
