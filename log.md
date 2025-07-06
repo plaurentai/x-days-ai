@@ -101,7 +101,7 @@ This was a nice review of the basics. Sometimes we gloss over learning the basic
 [Python visualizer](https://pythontutor.com/visualize.html#mode=edit)
 <br>
 <br>
-[Python basics](file://resources/codes/python_codes/1_basics)
+[Python basics](resources/codes/python_codes/1_basics)
 
 ---
 
@@ -128,7 +128,7 @@ I am hooked. I don't know how I can live without LLM for the rest of my time on 
 
 **Work & Resources**:
 
-[Python Snake Game](file://resources/codes/python_codes/snake_game)
+[Python Snake Game](resources/codes/python_codes/snake_game)
 
 
 ---
@@ -187,7 +187,7 @@ Today's lesson was concise and engaging. I had a hands-on learning experience—
 
 **Work & Resources**:
 
-[Python words program ](file://resources/codes/python_codes/pyfund)
+[Python words program ](resources/codes/python_codes/pyfund)
 
 ---
 
@@ -214,7 +214,7 @@ Another interesting day learning Python. It was refreshing and valuable to work 
 
 **Work & Resources**:
 
-[Python words program ](file://resources/codes/python_codes/pyfund)
+[Python words program ](resources/codes/python_codes/pyfund)
 
 ---
 
@@ -284,6 +284,31 @@ I created several prompts to help me learn French, which has been fascinating. T
 
 NONE
 
+---
+
+### Day 10 - LLM Project that summarizes a website
+
+#### July 6, 2025
+
+---
+
+**Focus**:
+
+The focus today is using Ollama to summerize any website
+
+**Progress**:
+
+- Setting up the project folder
+- Setting up the .env file
+- Write and play around with the python code in Jupyter
+
+**Thoughts**:
+
+**Work & Resources**:
+
+[LLM project - summarize a website ](resources/codes/llm/day1_ollama.ipynb)
+
+NONE
 ---
 
 ### Day X - IAM Basics
