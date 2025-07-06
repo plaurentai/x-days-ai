@@ -306,7 +306,7 @@ The focus today is using Ollama to summerize any website
 
 **Work & Resources**:
 
-[LLM project - summarize a website ](resources/codes/llm/day1_ollama.ipynb)
+[LLM project - summarize a website ](resources/llm/day1_ollama.ipynb)
 
 NONE
 ---
