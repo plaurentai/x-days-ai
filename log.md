@@ -1,4 +1,4 @@
-# AI Engineer
+# Agentic AI Engineer
 
 I am a self learner. I believe the best way to learn anything is to do it. Do it with passion and do it consistently everyday. This page shows my learning and experience with AI related technologies. The learning will concentrate on AI agentic. I am using python and related technologies to automate everything that can be automated. Everything will be documented for others to learn. Learning by teaching will make you smarter.
 
@@ -249,6 +249,36 @@ I’m finally learning Python the way I always wanted to. Today’s lesson was a
 Now, when I see **a is b**, I understand it's checking identity equality— whether two variables point to the same memory location. And when I see **a == b**, it’s testing value equality— whether the values at those memory location are the same. I now know that a and b are simply labels that serve as reference by the python language. These labels are great for human Understanding.
 
 The learning continues tomorrow.
+
+**Work & Resources**:
+
+NONE
+
+---
+
+### Day 9 - Seeting up my computer for LLM projects
+
+#### July 5, 2025
+
+---
+
+**Focus**:
+
+The Focus today is setting up my computer for LLM works
+
+**Progress**:
+
+- Installing uv, the python package and project manager
+- Using uv to install diffrent versions of python
+- Using uv to install packages
+- Installing ollama 3.2 locally
+- Playround and toy around with ollama
+
+**Thoughts**:
+
+Today's learning experience was quite exciting. I discovered that uv is an incredible tool—with it, there's rarely a need to install Python globally on your machine. I'm dedicating significant time to mastering this tool, and it's genuinely refreshing to know I can run a large language model locally on my computer.
+
+I created several prompts to help me learn French, which has been fascinating. Tomorrow, I plan to use Ollama to summarize a website using Python, which should be another interesting project.
 
 **Work & Resources**:
 
