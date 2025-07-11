@@ -294,7 +294,7 @@ NONE
 
 **Focus**:
 
-The focus today is using Ollama to summerize any website
+The focus today is on setting up my computer up for LLM development
 
 **Progress**:
 
@@ -304,11 +304,48 @@ The focus today is using Ollama to summerize any website
 
 **Thoughts**:
 
+Today's learning session was brief, focusing on setting up my computer for LLM development. This continues from day 10's work. This time I'm using Cursor to assist with coding. Cursor is an AI-powered tool designed to streamline the development process.
+
+**Work & Resources**:
+NONE
+
+---
+
+### Day 11 - Python past by object-reference
+
+#### July 7, 2025
+
+---
+
+**Focus**:
+
+Function arguments and return value
+
+**Progress**:
+
+- Understand python references semantics
+- Understand argument passing semantics
+- Understand Python return semantics
+- Understand the distinction between object references and objects
+
+**Thoughts**:
+
+I'm maintaining a deliberate, methodical approach to learning Python. Today's focus was understanding how Python references work. Concepts as fundamental as x = 10 and b = [1, 2, 3], c = b are crucial for grasping what's happening under the hood.
+
 **Work & Resources**:
 
-[LLM project - summarize a website ](resources/llm/day1_ollama.ipynb)
-
 NONE
+
+---
+
+### Vacation
+
+#### July 7-13, 2025
+
+---
+
+As Everything in life, things change and we need breaks. I am been removed from the screen for a week. It will be tough to keep my mind away.
+
 ---
 
 ### Day X - IAM Basics
